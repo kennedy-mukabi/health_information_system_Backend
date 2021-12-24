@@ -1,6 +1,4 @@
 # health_information_system_Frontend
-
-# Health_Information_system
 Our group identified a health institution as our target and aimed at automating some of the 
 analog ways of record keeping by introducing databases and Ui/ux for 
 accessing and managing the records of patients , health workers and scheduled appointments 
